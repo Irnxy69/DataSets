@@ -1,6 +1,4 @@
-pandas==2.3.0
 streamlit
 datasets
-huggingface_hub
 pillow
-# trigger rebuild
+
